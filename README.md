@@ -1,2 +1,26 @@
-# fitness-website
-.form-error {   color: #ff5f5f;   font-size: 14px;   margin-top: 6px; }  .form-success {   color: #7dff9b;   font-size: 15px;   font-weight: 600; }
+#  Fitness Website
+
+A modern fitness website built using React.  
+This project includes a visually rich hero section, services, and a contact form with validation.
+
+---
+
+##  Features
+
+-  Hero section based on Figma design
+-  Responsive layout (mobile & desktop)
+-  Component-based React structure
+-  Contact form with validation
+-  Clean UI with modern styling
+
+---
+
+##  Technologies Used
+
+- React (Vite)
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+
+---
+
